@@ -25,6 +25,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WillHelm696&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
+
+"No te preocupes si no funciona bien. Si todo estuviera correcto, serias despedido de tutrabajo"
+--Ley de Mosher de la ingenieria del Sodtware
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### 🔝 Top Contributed Repo
