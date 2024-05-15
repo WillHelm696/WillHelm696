@@ -1,4 +1,7 @@
-### Hi there 👋
+<div align="center">
+<h1 aling="center">Hola, Soy William 👋 </h1>
+</div>
+<img src="https://d2a5isokysfowx.cloudfront.net/wp-content/uploads/2022/03/que-se-necesita-estudiar-para-ser-programador-scaled.jpg">
 
 <!--
 **WillHelm696/WillHelm696** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
