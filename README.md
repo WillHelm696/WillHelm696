@@ -27,7 +27,8 @@
 ### ✍️ Random Dev Quote
 
 "No te preocupes si no funciona bien. Si todo estuviera correcto, serias despedido de tutrabajo"
---Ley de Mosher de la ingenieria del Sodtware
+
+--Ley de Mosher de la ingenieria del Software 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
